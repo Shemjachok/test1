@@ -1,5 +1,9 @@
 Hello, world
 hello
 hello
+<<<<<<< HEAD
 Ho-Ho-Ho
 What?
+=======
+Ho-Ho-Ho
+>>>>>>> f04ea9209fc78cf71da6c0a00442e597748e3140
