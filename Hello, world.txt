@@ -1,5 +1,6 @@
 Hello, world
 hello
+<<<<<<< HEAD
 hello
 <<<<<<< HEAD
 Ho-Ho-Ho
@@ -7,3 +8,6 @@ What?
 =======
 Ho-Ho-Ho
 >>>>>>> f04ea9209fc78cf71da6c0a00442e597748e3140
+=======
+hello
+>>>>>>> parent of 9c5e393 (HO-HO-HO)
